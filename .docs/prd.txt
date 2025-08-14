@@ -1,0 +1,144 @@
+# Buddhi Flow - AI Browser Automation Agent
+
+## Product Overview
+Buddhi Flow is an intelligent browser automation platform designed to help users research companies, analyze websites, and automate web tasks using advanced AI models. The platform provides a modern, user-friendly interface with real-time monitoring and comprehensive reporting capabilities.
+
+## Target Audience
+- Business professionals needing market research
+- Digital marketers tracking competitors
+- E-commerce businesses monitoring prices
+- Data analysts gathering web data
+- Content creators researching topics
+- Customer support teams analyzing patterns
+
+## Core Features
+
+### AI-Powered Automation
+- Natural language task instructions
+- Intelligent browser automation
+- Adaptive AI models that learn from patterns
+- Complex task understanding and execution
+
+### Visual Workflow Builder
+- Drag-and-drop interface
+- Reusable workflow templates
+- Conditional logic and branching
+- Error handling and recovery
+
+### Credential Wallet
+- Secure credential storage
+- Encrypted sensitive information
+- Cross-platform authentication
+- Role-based access control
+
+### Live Browser View
+- Real-time automation monitoring
+- Interactive browser control
+- Screenshot and recording capabilities
+- Debugging tools
+
+### Browser Profile Management
+- Custom browser settings
+- Data persistence options
+- Country-specific proxies
+- Profile templates for different use cases
+
+### Task & Workflow Scheduling
+- Interval scheduling
+- Cron expression support
+- Time range controls
+- Status management and monitoring
+
+### AI Workflow Suggestions
+- Pattern recognition
+- Industry-specific templates
+- Confidence scoring
+- ROI estimation
+
+### Automation Health Dashboard
+- Real-time metrics
+- Performance tracking
+- Alert system
+- Historical trends
+
+## Technical Requirements
+
+### Frontend
+- Next.js 14 framework
+- React 18 components
+- TypeScript for type safety
+- Tailwind CSS for styling
+
+### Backend Integration
+- Browser Use Cloud API integration
+- Secure API key management
+- Webhook support
+- Error handling and logging
+
+### Security
+- Encrypted credential storage
+- Secure API communications
+- Domain allowlisting
+- Role-based access control
+
+## User Experience Requirements
+
+### User Interface
+- Modern, clean design
+- Responsive layout for all devices
+- Glassmorphism design elements
+- Gradient themes and visual appeal
+
+### User Flow
+- Simple onboarding process
+- Intuitive task creation
+- Real-time feedback
+- Comprehensive reporting
+
+### Performance
+- Fast task execution
+- Responsive UI even during automation
+- Efficient resource usage
+- Scalable architecture
+
+## Deployment & Infrastructure
+
+### Deployment Options
+- Vercel deployment (recommended)
+- Netlify compatibility
+- Railway support
+- Docker containerization
+
+### Environment Requirements
+- Node.js runtime
+- API key configuration
+- Environment variables
+- Secure storage for credentials
+
+## Success Metrics
+
+### Key Performance Indicators
+- Task success rate (target: >95%)
+- Average task completion time
+- User retention rate
+- Feature adoption metrics
+
+### Quality Assurance
+- Comprehensive testing strategy
+- Error rate monitoring
+- Performance benchmarks
+- Security audits
+
+## Future Considerations
+
+### Potential Enhancements
+- Mobile app for monitoring
+- API for third-party integrations
+- Advanced analytics and reporting
+- Custom AI model training
+
+### Scalability Planning
+- Multi-user collaboration features
+- Enterprise deployment options
+- High-volume automation support
+- Global proxy infrastructure 
